@@ -1,0 +1,304 @@
+XuYi All Rights Reserved.
+Welcome to OmegaXYZ: www.omegaxyz.com
+Problem ZDT1
+
+The 0 generation situation:
+x1=1.653875e-03  x2=3.564953e-312  
+f1(x)=0.501631   f2(x)=0.302447
+The 1 generation situation:
+x1=1.000000e-06  x2=1.230758e-312  
+f1(x)=0.162362   f2(x)=0.597067
+The 2 generation situation:
+x1=2.223344e-08  x2=3.671053e-312  
+f1(x)=0.999999   f2(x)=0.000001
+The 3 generation situation:
+x1=1.000000e-06  x2=1.145878e-312  
+f1(x)=0.000000   f2(x)=0.999702
+The 4 generation situation:
+x1=3.278377e-04  x2=3.204214e-312  
+f1(x)=0.383364   f2(x)=0.383100
+The 5 generation situation:
+x1=1.000000e-06  x2=3.225434e-312  
+f1(x)=0.661960   f2(x)=0.186397
+The 6 generation situation:
+x1=3.027685e-05  x2=3.204214e-312  
+f1(x)=0.351204   f2(x)=0.407588
+The 7 generation situation:
+x1=1.000000e-06  x2=3.564953e-312  
+f1(x)=0.473156   f2(x)=0.312144
+The 8 generation situation:
+x1=1.000000e-06  x2=3.204214e-312  
+f1(x)=0.317620   f2(x)=0.436429
+The 9 generation situation:
+x1=5.153951e-06  x2=1.230758e-312  
+f1(x)=0.092517   f2(x)=0.695877
+The 10 generation situation:
+x1=1.000000e-06  x2=1.230758e-312  
+f1(x)=0.080744   f2(x)=0.715854
+The 11 generation situation:
+x1=1.000000e-06  x2=8.744962e-322  
+f1(x)=0.946851   f2(x)=0.026943
+The 12 generation situation:
+x1=1.000000e-06  x2=4.545404e-322  
+f1(x)=0.901369   f2(x)=0.050601
+The 13 generation situation:
+x1=1.000000e-06  x2=4.545404e-322  
+f1(x)=0.908811   f2(x)=0.046689
+The 14 generation situation:
+x1=1.000000e-06  x2=2.419075e-312  
+f1(x)=0.204437   f2(x)=0.547861
+The 15 generation situation:
+x1=1.000000e-06  x2=4.545404e-322  
+f1(x)=0.694102   f2(x)=0.166878
+The 16 generation situation:
+x1=1.000000e-06  x2=0.000000e+00  
+f1(x)=0.718774   f2(x)=0.152200
+The 17 generation situation:
+x1=6.944175e-05  x2=2.419075e-312  
+f1(x)=0.184087   f2(x)=0.571492
+The 18 generation situation:
+x1=1.000000e-06  x2=1.230758e-312  
+f1(x)=0.000575   f2(x)=0.976040
+The 19 generation situation:
+x1=1.000000e-06  x2=2.419075e-312  
+f1(x)=0.289167   f2(x)=0.462265
+The 20 generation situation:
+x1=1.000000e-06  x2=1.230758e-312  
+f1(x)=0.069767   f2(x)=0.735874
+The 21 generation situation:
+x1=1.000000e-06  x2=2.673715e-312  
+f1(x)=0.853005   f2(x)=0.076423
+The 22 generation situation:
+x1=1.000000e-06  x2=3.204214e-312  
+f1(x)=0.526965   f2(x)=0.274083
+The 23 generation situation:
+x1=1.000000e-06  x2=1.230758e-312  
+f1(x)=0.003942   f2(x)=0.937226
+The 24 generation situation:
+x1=6.007019e-07  x2=1.952236e-312  
+f1(x)=0.869721   f2(x)=0.067415
+The 25 generation situation:
+x1=1.000000e-06  x2=3.182994e-312  
+f1(x)=0.549567   f2(x)=0.258679
+The 26 generation situation:
+x1=1.000000e-06  x2=3.564953e-312  
+f1(x)=0.453731   f2(x)=0.326411
+The 27 generation situation:
+x1=1.000055e-06  x2=4.545404e-322  
+f1(x)=0.776775   f2(x)=0.118657
+The 28 generation situation:
+x1=6.709906e-04  x2=1.230758e-312  
+f1(x)=0.148919   f2(x)=0.619517
+The 29 generation situation:
+x1=1.000000e-06  x2=1.230758e-312  
+f1(x)=0.163970   f2(x)=0.595076
+The 30 generation situation:
+x1=1.000000e-06  x2=3.564953e-312  
+f1(x)=0.633153   f2(x)=0.204297
+The 31 generation situation:
+x1=1.000000e-06  x2=2.716155e-312  
+f1(x)=0.797068   f2(x)=0.107219
+The 32 generation situation:
+x1=1.600594e-03  x2=3.564953e-312  
+f1(x)=0.440754   f2(x)=0.346821
+The 33 generation situation:
+x1=1.000000e-06  x2=2.419075e-312  
+f1(x)=0.261619   f2(x)=0.488521
+The 34 generation situation:
+x1=6.090776e-07  x2=1.612717e-312  
+f1(x)=0.217364   f2(x)=0.533782
+The 35 generation situation:
+x1=9.722515e-07  x2=0.000000e+00  
+f1(x)=0.954212   f2(x)=0.023167
+The 36 generation situation:
+x1=3.382426e-06  x2=1.145878e-312  
+f1(x)=0.049817   f2(x)=0.776834
+The 37 generation situation:
+x1=1.000000e-06  x2=3.204214e-312  
+f1(x)=0.508461   f2(x)=0.286942
+The 38 generation situation:
+x1=1.000000e-06  x2=2.291755e-312  
+f1(x)=0.979372   f2(x)=0.010373
+The 39 generation situation:
+x1=2.696554e-05  x2=2.716155e-312  
+f1(x)=0.833141   f2(x)=0.087381
+The 40 generation situation:
+x1=1.000000e-06  x2=1.230758e-312  
+f1(x)=0.011250   f2(x)=0.893943
+The 41 generation situation:
+x1=1.000000e-06  x2=4.743030e-322  
+f1(x)=0.752343   f2(x)=0.132629
+The 42 generation situation:
+x1=1.054617e-06  x2=1.230758e-312  
+f1(x)=0.018513   f2(x)=0.863948
+The 43 generation situation:
+x1=1.000000e-06  x2=1.124658e-312  
+f1(x)=0.059759   f2(x)=0.755552
+The 44 generation situation:
+x1=1.000000e-06  x2=1.230758e-312  
+f1(x)=0.105026   f2(x)=0.675931
+The 45 generation situation:
+x1=1.000000e-06  x2=3.204214e-312  
+f1(x)=0.324697   f2(x)=0.430185
+The 46 generation situation:
+x1=1.000000e-06  x2=1.421737e-312  
+f1(x)=0.616415   f2(x)=0.214885
+The 47 generation situation:
+x1=1.000000e-06  x2=1.230758e-312  
+f1(x)=0.005835   f2(x)=0.923624
+The 48 generation situation:
+x1=9.980732e-07  x2=3.564953e-312  
+f1(x)=0.398687   f2(x)=0.368590
+The 49 generation situation:
+x1=1.000000e-06  x2=1.145878e-312  
+f1(x)=0.042159   f2(x)=0.794682
+The 50 generation situation:
+x1=7.931360e-04  x2=2.037116e-312  
+f1(x)=0.274721   f2(x)=0.481719
+The 51 generation situation:
+x1=3.764057e-03  x2=2.037116e-312  
+f1(x)=0.272715   f2(x)=0.505682
+The 52 generation situation:
+x1=4.187817e-03  x2=2.037116e-312  
+f1(x)=0.271337   f2(x)=0.510183
+The 53 generation situation:
+x1=1.000000e-06  x2=2.928354e-312  
+f1(x)=0.224473   f2(x)=0.526222
+The 54 generation situation:
+x1=1.000000e-06  x2=2.928354e-312  
+f1(x)=0.220561   f2(x)=0.530368
+The 55 generation situation:
+x1=3.735878e-03  x2=2.928354e-312  
+f1(x)=0.219623   f2(x)=0.560045
+The 56 generation situation:
+x1=4.072239e-03  x2=2.928354e-312  
+f1(x)=0.213420   f2(x)=0.569436
+The 57 generation situation:
+x1=1.000000e-06  x2=2.928354e-312  
+f1(x)=0.181269   f2(x)=0.574250
+The 58 generation situation:
+x1=1.603226e-03  x2=2.928354e-312  
+f1(x)=0.180740   f2(x)=0.587503
+The 59 generation situation:
+x1=1.000000e-06  x2=2.037116e-312  
+f1(x)=0.163579   f2(x)=0.595559
+The 60 generation situation:
+x1=1.000000e-06  x2=2.037116e-312  
+f1(x)=0.163579   f2(x)=0.595559
+The 61 generation situation:
+x1=6.866912e-04  x2=2.588835e-312  
+f1(x)=0.156732   f2(x)=0.609616
+The 62 generation situation:
+x1=1.000000e-06  x2=2.588835e-312  
+f1(x)=0.148862   f2(x)=0.614182
+The 63 generation situation:
+x1=1.000000e-06  x2=2.037116e-312  
+f1(x)=0.147488   f2(x)=0.615967
+The 64 generation situation:
+x1=1.000000e-06  x2=2.037116e-312  
+f1(x)=0.141305   f2(x)=0.624102
+The 65 generation situation:
+x1=1.000000e-06  x2=2.037116e-312  
+f1(x)=0.141165   f2(x)=0.624289
+The 66 generation situation:
+x1=1.000000e-06  x2=1.952236e-312  
+f1(x)=0.138978   f2(x)=0.627211
+The 67 generation situation:
+x1=3.954208e-05  x2=2.037116e-312  
+f1(x)=0.133314   f2(x)=0.635201
+The 68 generation situation:
+x1=1.000000e-06  x2=2.037116e-312  
+f1(x)=0.130746   f2(x)=0.638420
+The 69 generation situation:
+x1=1.000000e-06  x2=2.037116e-312  
+f1(x)=0.130521   f2(x)=0.638731
+The 70 generation situation:
+x1=1.000000e-06  x2=2.037116e-312  
+f1(x)=0.122806   f2(x)=0.649571
+The 71 generation situation:
+x1=1.000000e-06  x2=1.952236e-312  
+f1(x)=0.121412   f2(x)=0.651566
+The 72 generation situation:
+x1=1.000000e-06  x2=1.952236e-312  
+f1(x)=0.120509   f2(x)=0.652865
+The 73 generation situation:
+x1=1.480831e-04  x2=1.952236e-312  
+f1(x)=0.120487   f2(x)=0.654112
+The 74 generation situation:
+x1=1.830466e-03  x2=1.952236e-312  
+f1(x)=0.113203   f2(x)=0.678782
+The 75 generation situation:
+x1=1.000000e-06  x2=1.952236e-312  
+f1(x)=0.065281   f2(x)=0.744508
+The 76 generation situation:
+x1=1.868400e-03  x2=2.037116e-312  
+f1(x)=0.058552   f2(x)=0.774459
+The 77 generation situation:
+x1=1.000000e-06  x2=1.782476e-312  
+f1(x)=0.047434   f2(x)=0.782215
+The 78 generation situation:
+x1=7.089474e-04  x2=1.782476e-312  
+f1(x)=0.046244   f2(x)=0.791285
+The 79 generation situation:
+x1=3.024852e-05  x2=1.782476e-312  
+f1(x)=0.034917   f2(x)=0.813414
+The 80 generation situation:
+x1=1.000000e-06  x2=1.952236e-312  
+f1(x)=0.032490   f2(x)=0.819760
+The 81 generation situation:
+x1=3.686347e-04  x2=1.952236e-312  
+f1(x)=0.028774   f2(x)=0.833745
+The 82 generation situation:
+x1=1.000000e-06  x2=1.952236e-312  
+f1(x)=0.027480   f2(x)=0.834237
+The 83 generation situation:
+x1=7.891405e-04  x2=1.952236e-312  
+f1(x)=0.019936   f2(x)=0.866139
+The 84 generation situation:
+x1=1.000000e-06  x2=1.782476e-312  
+f1(x)=0.012926   f2(x)=0.886316
+The 85 generation situation:
+x1=1.000000e-06  x2=1.782476e-312  
+f1(x)=0.007042   f2(x)=0.916095
+The 86 generation situation:
+x1=1.000000e-06  x2=1.782476e-312  
+f1(x)=0.004550   f2(x)=0.932557
+The 87 generation situation:
+x1=1.000000e-06  x2=1.952236e-312  
+f1(x)=0.000109   f2(x)=0.989558
+The 88 generation situation:
+x1=1.000000e-06  x2=1.761257e-312  
+f1(x)=0.000001   f2(x)=0.999010
+The 89 generation situation:
+x1=1.000000e-06  x2=1.761257e-312  
+f1(x)=0.000001   f2(x)=0.999010
+The 90 generation situation:
+x1=1.000000e-06  x2=1.761257e-312  
+f1(x)=0.000001   f2(x)=0.999010
+The 91 generation situation:
+x1=1.058775e-02  x2=2.928354e-312  
+f1(x)=0.231387   f2(x)=0.600026
+The 92 generation situation:
+x1=1.429834e-03  x2=1.761257e-312  
+f1(x)=0.000001   f2(x)=1.013291
+The 93 generation situation:
+x1=2.138584e-04  x2=3.140554e-312  
+f1(x)=0.999936   f2(x)=0.001102
+The 94 generation situation:
+x1=1.840856e-03  x2=2.546395e-312  
+f1(x)=0.573750   f2(x)=0.254005
+The 95 generation situation:
+x1=2.724244e-04  x2=1.549057e-312  
+f1(x)=0.401407   f2(x)=0.368295
+The 96 generation situation:
+x1=1.060784e-01  x2=2.100776e-312  
+f1(x)=0.922926   f2(x)=0.681671
+The 97 generation situation:
+x1=9.322339e-02  x2=3.628613e-312  
+f1(x)=0.999999   f2(x)=0.542186
+The 98 generation situation:
+x1=2.656707e-01  x2=1.358077e-312  
+f1(x)=0.274354   f2(x)=2.655092
+The 99 generation situation:
+x1=7.532768e-01  x2=2.970794e-313  
+f1(x)=0.141105   f2(x)=7.435489
